@@ -1,6 +1,6 @@
 #### STEPS FOR IMPORTING THE DUMMY DATABASE USING THE DUMP FILE AVAILABLE
 
-STEP 1: Download the Sql Dump File Available inside <a href="https://github.com/GuduruMadhuSudhanReddy/e-tender-mangement-System/edit/main/DataBase/how-to-import-sql-dump-file.md">DataBase/tender.sql</a> file
+STEP 1: Download the Sql Dump File Available inside <a href="https://github.com/GuduruMadhuSudhanReddy/e-tender-mangement-System/blob/main/DataBase/tender.sql">DataBase/tender.sql</a> file
 
 STEP 2: Go to the downloaded file location and unzip the file if zipped
 
